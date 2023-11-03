@@ -1,0 +1,12 @@
+fibsu student election portal
+
+admin folder name (rrrrrrrssssssstttttttuuuuuu)
+
+-------------------------------------------------
+this project make use php mysql and pdo operations
+
+the complete version of this source code was launch on fibsuec.com.ng domain..
+
+this project is the test version of the full one written for fibsu election purpose
+
+bootstrap bower_component and many web technologies are use in this project
